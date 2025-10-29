@@ -1,0 +1,17 @@
+.app {
+    min-height: 100vh;
+    background: var(--color-bg-light);
+    color: var(--color-text-light);
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.app.dark {
+    background: var(--color-bg-dark);
+    color: var(--color-text-dark);
+}
+
+.main-content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+}
