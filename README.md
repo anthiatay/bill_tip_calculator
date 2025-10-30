@@ -19,8 +19,8 @@ Deployed on **Vercel** for instant and free hosting
 Live site -> [https://bill-tip-calculator-nu.vercel.app/ ] 
 
 ## Tech Stack
-**HTML5**
-**CSS3**
-**JavaScript (ES6)** 
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6)** 
 
 Made with 💖 by[@anthiatay] (https://github.com/anthiatay) 
