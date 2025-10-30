@@ -119,8 +119,8 @@ function Calculator() {
         <div className="calculator-container">
             <div className="receipt">
                 <div className="receipt-header">
-                    <div className="restaurant-name">🍕 PIZZA PALACE</div>
-                    <div className="receipt-subtitle">Tip Calculator</div>
+                    <div className="restaurant-name">🍕 AMALFI PIZZA </div>
+                    <div className="receipt-subtitle">[ baked by anthia 👩🏾‍🍳 ]</div>
                 </div>
 
                 <div className="input-group">
