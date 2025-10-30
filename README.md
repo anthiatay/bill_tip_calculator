@@ -11,3 +11,16 @@ A modern, sleek calculator that helps calculate either the bill, tip, or total �
 - 🔄 **Reset Button**: Clear all fields with one click
 - 📤 **Share Functionality**: Share results via native share API or copy to clipboard
 - ⚡ **PWA Ready**: Install as a Progressive Web App on mobile devices
+
+
+## Deployment
+Deployed on **Vercel** for instant and free hosting
+
+Live site -> [https://bill-tip-calculator-nu.vercel.app/ ] 
+
+## Tech Stack
+**HTML5**
+**CSS3**
+**JavaScript (ES6)** 
+
+Made with 💖 by[@anthiatay] (https://github.com/anthiatay) 
